@@ -44,3 +44,10 @@
 * Run the training script
 
   e.g. `python bert_for_sequence_classification.py`
+  
+  
+## Chat 
+
+Chat with the team in the meeting chat
+
+Raise issues in this repo
